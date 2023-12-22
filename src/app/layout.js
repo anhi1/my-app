@@ -13,6 +13,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
       <h1>TITULO</h1>
+      <h2>subtitulo</h2>
         {children}
       </body>
     </html>
